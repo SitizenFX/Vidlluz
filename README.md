@@ -52,3 +52,4 @@ It will take a while to index. Try to build the solution!
 Open folder `client\bin\five\debug` and put there files [from that repository](https://github.com/multifive/cache/tree/master/caches/fivem) and then launch FiveM.exe.
 
 If you get any errors while compiling or doing something about that just leave your problem here: [Issues](https://github.com/multifive/client/issues). Thanks! :v:
+🇿🇲
