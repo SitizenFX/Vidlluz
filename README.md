@@ -1,4 +1,4 @@
-!![Multiplayer for GTA V based on FiveM](http://multifive.org/images/multifive_logo.png)
+![Multiplayer for GTA V based on FiveM](http://multifive.org/images/multifive_logo.png)
 ## Introduction:
 
 All of code belongs to Bas Timmer/NTAuthority et al., see license:
